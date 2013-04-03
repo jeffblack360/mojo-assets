@@ -1,0 +1,2054 @@
+[Tue Apr  2 17:00:59 2013] [info] Listening at "http://*:9090".
+[Tue Apr  2 17:11:01 2013] [info] Listening at "http://*:9090".
+[Tue Apr  2 17:11:18 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr  2 17:11:18 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:11:18 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:11:18 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Apr  2 17:11:18 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr  2 17:11:18 2013] [debug] 200 OK (0.050584s, 19.769/s).
+[Tue Apr  2 17:11:19 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:11:19 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:11:19 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:11:19 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr  2 17:11:19 2013] [debug] 200 OK (0.005223s, 191.461/s).
+[Tue Apr  2 17:11:20 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:11:20 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:11:20 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:11:20 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr  2 17:11:20 2013] [debug] 200 OK (0.007617s, 131.285/s).
+[Tue Apr  2 17:11:20 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:11:20 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:11:20 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:11:20 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr  2 17:11:20 2013] [debug] 200 OK (0.007800s, 128.205/s).
+[Tue Apr  2 17:11:20 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:11:20 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:11:20 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:11:20 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr  2 17:11:20 2013] [debug] 200 OK (0.007727s, 129.416/s).
+[Tue Apr  2 17:11:20 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:11:20 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:11:20 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:11:20 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr  2 17:11:20 2013] [debug] 200 OK (0.004734s, 211.238/s).
+[Tue Apr  2 17:11:20 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:11:20 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:11:20 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:11:20 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr  2 17:11:20 2013] [debug] 200 OK (0.005827s, 171.615/s).
+[Tue Apr  2 17:11:20 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:11:20 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:11:20 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:11:20 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr  2 17:11:20 2013] [debug] 200 OK (0.007811s, 128.025/s).
+[Tue Apr  2 17:11:56 2013] [info] Listening at "http://*:9090".
+[Tue Apr  2 17:11:59 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr  2 17:11:59 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:11:59 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:11:59 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Apr  2 17:11:59 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Apr  2 17:11:59 2013] [debug] 200 OK (0.051166s, 19.544/s).
+[Tue Apr  2 17:12:01 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:12:01 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:12:01 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:12:01 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr  2 17:12:01 2013] [debug] 200 OK (0.007392s, 135.281/s).
+[Tue Apr  2 17:12:01 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:12:01 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:12:01 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:12:01 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr  2 17:12:01 2013] [debug] 200 OK (0.007599s, 131.596/s).
+[Tue Apr  2 17:12:01 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:12:01 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:12:01 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:12:01 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr  2 17:12:01 2013] [debug] 200 OK (0.007742s, 129.166/s).
+[Tue Apr  2 17:12:02 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:12:02 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:12:02 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:12:02 2013] [debug] Rendering cached template layouts/default.html.ep.
+[Tue Apr  2 17:12:02 2013] [debug] 200 OK (0.005388s, 185.598/s).
+[Tue Apr  2 17:13:00 2013] [info] Listening at "http://*:9090".
+[Tue Apr  2 17:31:30 2013] [info] Listening at "http://*:9090".
+[Tue Apr  2 17:31:32 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Apr  2 17:31:32 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:31:32 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Apr  2 17:31:32 2013] [debug] Rendering template "layouts/bootstrap.html.ep".
+[Tue Apr  2 17:31:32 2013] [debug] 200 OK (0.061610s, 16.231/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.036116s, 27.689/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.030585s, 32.696/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.015820s, 63.211/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.015887s, 62.945/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.027137s, 36.850/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.015389s, 64.981/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.019410s, 51.520/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.023111s, 43.269/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.013857s, 72.166/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.014374s, 69.570/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.009960s, 100.402/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /ico/favicon.ico (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.014124s, 70.801/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.018313s, 54.606/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.013566s, 73.714/s).
+[Tue Apr  2 17:31:32 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:32 2013] [debug] 404 Not Found (0.013843s, 72.239/s).
+[Tue Apr  2 17:31:33 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] 404 Not Found (0.013194s, 75.792/s).
+[Tue Apr  2 17:31:33 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] 404 Not Found (0.013420s, 74.516/s).
+[Tue Apr  2 17:31:33 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] 404 Not Found (0.013839s, 72.260/s).
+[Tue Apr  2 17:31:33 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] 404 Not Found (0.013576s, 73.659/s).
+[Tue Apr  2 17:31:33 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] 404 Not Found (0.015152s, 65.998/s).
+[Tue Apr  2 17:31:33 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] 404 Not Found (0.014224s, 70.304/s).
+[Tue Apr  2 17:31:33 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] 404 Not Found (0.016798s, 59.531/s).
+[Tue Apr  2 17:31:33 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:31:33 2013] [debug] 404 Not Found (0.013334s, 74.996/s).
+[Tue Apr  2 17:33:29 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:29 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached template layouts/bootstrap.html.ep.
+[Tue Apr  2 17:33:29 2013] [debug] 200 OK (0.005471s, 182.782/s).
+[Tue Apr  2 17:33:29 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:29 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:29 2013] [debug] 404 Not Found (0.017016s, 58.768/s).
+[Tue Apr  2 17:33:29 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:29 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:29 2013] [debug] 404 Not Found (0.016582s, 60.306/s).
+[Tue Apr  2 17:33:29 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:29 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:29 2013] [debug] 404 Not Found (0.015662s, 63.849/s).
+[Tue Apr  2 17:33:29 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:29 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:29 2013] [debug] 404 Not Found (0.018785s, 53.234/s).
+[Tue Apr  2 17:33:29 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:29 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:29 2013] [debug] 404 Not Found (0.015484s, 64.583/s).
+[Tue Apr  2 17:33:29 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:29 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:29 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:29 2013] [debug] 404 Not Found (0.023775s, 42.061/s).
+[Tue Apr  2 17:33:29 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.064091s, 15.603/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.015493s, 64.545/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.014258s, 70.136/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.013501s, 74.069/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.013580s, 73.638/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.014075s, 71.048/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.013475s, 74.212/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.013484s, 74.162/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.013429s, 74.466/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.014322s, 69.823/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.013524s, 73.943/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.013764s, 72.653/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.015530s, 64.392/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.014148s, 70.681/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.014001s, 71.423/s).
+[Tue Apr  2 17:33:30 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:30 2013] [debug] 404 Not Found (0.013859s, 72.155/s).
+[Tue Apr  2 17:33:35 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:35 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:33:35 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:33:35 2013] [debug] Rendering cached template layouts/bootstrap.html.ep.
+[Tue Apr  2 17:33:35 2013] [debug] 200 OK (0.006468s, 154.607/s).
+[Tue Apr  2 17:33:35 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:35 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:35 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:35 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:35 2013] [debug] 404 Not Found (0.015888s, 62.941/s).
+[Tue Apr  2 17:33:35 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:35 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:35 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:35 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:35 2013] [debug] 404 Not Found (0.015727s, 63.585/s).
+[Tue Apr  2 17:33:35 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:35 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:35 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:35 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:35 2013] [debug] 404 Not Found (0.016506s, 60.584/s).
+[Tue Apr  2 17:33:35 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:35 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:35 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:35 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:35 2013] [debug] 404 Not Found (0.018625s, 53.691/s).
+[Tue Apr  2 17:33:35 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:35 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:35 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:35 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:35 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:35 2013] [debug] 404 Not Found (0.014106s, 70.892/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.014034s, 71.256/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.022262s, 44.920/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.015180s, 65.876/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.035296s, 28.332/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.031404s, 31.843/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.014273s, 70.062/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.017747s, 56.348/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.013979s, 71.536/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.013880s, 72.046/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.013308s, 75.143/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.013603s, 73.513/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.013653s, 73.244/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.014278s, 70.038/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.013969s, 71.587/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.013869s, 72.103/s).
+[Tue Apr  2 17:33:36 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:33:36 2013] [debug] 404 Not Found (0.014043s, 71.210/s).
+[Tue Apr  2 17:34:20 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:20 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:34:20 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:34:20 2013] [debug] Rendering cached template layouts/bootstrap.html.ep.
+[Tue Apr  2 17:34:20 2013] [debug] 200 OK (0.008515s, 117.440/s).
+[Tue Apr  2 17:34:20 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:20 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:20 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:20 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:20 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:20 2013] [debug] 404 Not Found (0.015523s, 64.421/s).
+[Tue Apr  2 17:34:20 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:20 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:20 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:20 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:20 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:20 2013] [debug] 404 Not Found (0.021896s, 45.670/s).
+[Tue Apr  2 17:34:20 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:20 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:20 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:20 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:20 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:20 2013] [debug] 404 Not Found (0.015260s, 65.531/s).
+[Tue Apr  2 17:34:20 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:20 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:20 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:20 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:20 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:20 2013] [debug] 404 Not Found (0.015929s, 62.779/s).
+[Tue Apr  2 17:34:20 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:20 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:20 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.017817s, 56.126/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.018694s, 53.493/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.018145s, 55.112/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.026484s, 37.759/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.044063s, 22.695/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.014843s, 67.372/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.019641s, 50.914/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.022188s, 45.069/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.013755s, 72.701/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.013994s, 71.459/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.015090s, 66.269/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.014372s, 69.580/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.015387s, 64.990/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.016332s, 61.229/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.016731s, 59.769/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.017701s, 56.494/s).
+[Tue Apr  2 17:34:21 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:21 2013] [debug] 404 Not Found (0.018450s, 54.201/s).
+[Tue Apr  2 17:34:22 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:22 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Tue Apr  2 17:34:22 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Tue Apr  2 17:34:22 2013] [debug] Rendering cached template layouts/bootstrap.html.ep.
+[Tue Apr  2 17:34:22 2013] [debug] 200 OK (0.008789s, 113.779/s).
+[Tue Apr  2 17:34:22 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:22 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:22 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:22 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:22 2013] [debug] 404 Not Found (0.028439s, 35.163/s).
+[Tue Apr  2 17:34:22 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:22 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:22 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:22 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:22 2013] [debug] 404 Not Found (0.070806s, 14.123/s).
+[Tue Apr  2 17:34:22 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:22 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.100282s, 9.972/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.013991s, 71.475/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.014841s, 67.381/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.013657s, 73.223/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.013916s, 71.860/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.023343s, 42.839/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.025247s, 39.609/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.014739s, 67.847/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.016490s, 60.643/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.014040s, 71.225/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.039067s, 25.597/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.016459s, 60.757/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.020351s, 49.138/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.018136s, 55.139/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.020623s, 48.490/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.016740s, 59.737/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.024035s, 41.606/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.018034s, 55.451/s).
+[Tue Apr  2 17:34:23 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:23 2013] [debug] 404 Not Found (0.028707s, 34.835/s).
+[Tue Apr  2 17:34:24 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Tue Apr  2 17:34:24 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Apr  2 17:34:24 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Apr  2 17:34:24 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:24 2013] [debug] Rendering cached inline template.
+[Tue Apr  2 17:34:24 2013] [debug] 404 Not Found (0.018543s, 53.929/s).
+[Wed Apr  3 11:06:29 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 11:15:52 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 11:24:09 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 11:24:55 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 11:25:37 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 11:25:37 2013] [info] Listening at "http://*:9090".
+[Wed Apr  3 11:25:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 11:25:42 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:42 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Wed Apr  3 11:25:42 2013] [debug] Rendering template "example/welcome.html.ep".
+[Wed Apr  3 11:25:43 2013] [debug] Rendering template "layouts/bootstrap.html.ep".
+[Wed Apr  3 11:25:43 2013] [debug] 200 OK (0.079243s, 12.619/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.036527s, 27.377/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.017018s, 58.761/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.021751s, 45.975/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.013459s, 74.300/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.016499s, 60.610/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.017601s, 56.815/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.017063s, 58.606/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.017356s, 57.617/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.017255s, 57.954/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.021281s, 46.990/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.014838s, 67.395/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.014508s, 68.927/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.013333s, 75.002/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.014065s, 71.098/s).
+[Wed Apr  3 11:25:43 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:43 2013] [debug] 404 Not Found (0.013478s, 74.195/s).
+[Wed Apr  3 11:25:44 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] 404 Not Found (0.013842s, 72.244/s).
+[Wed Apr  3 11:25:44 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] 404 Not Found (0.015201s, 65.785/s).
+[Wed Apr  3 11:25:44 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] 404 Not Found (0.015249s, 65.578/s).
+[Wed Apr  3 11:25:44 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] 404 Not Found (0.014078s, 71.033/s).
+[Wed Apr  3 11:25:44 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] 404 Not Found (0.014202s, 70.413/s).
+[Wed Apr  3 11:25:44 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] 404 Not Found (0.013983s, 71.515/s).
+[Wed Apr  3 11:25:44 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:44 2013] [debug] 404 Not Found (0.013856s, 72.171/s).
+[Wed Apr  3 11:25:49 2013] [debug] GET /action-tag.html (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:49 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:49 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:49 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:49 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:49 2013] [debug] 404 Not Found (0.015627s, 63.992/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached template layouts/bootstrap.html.ep.
+[Wed Apr  3 11:25:59 2013] [debug] 200 OK (0.004911s, 203.625/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.015484s, 64.583/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.033641s, 29.726/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.019801s, 50.502/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.016895s, 59.189/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.015325s, 65.253/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.039581s, 25.265/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.043082s, 23.212/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.017064s, 58.603/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.013243s, 75.512/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.013892s, 71.984/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.030471s, 32.818/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.030969s, 32.290/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.014486s, 69.032/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.014447s, 69.219/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.013783s, 72.553/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.014163s, 70.607/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] 404 Not Found (0.014238s, 70.235/s).
+[Wed Apr  3 11:25:59 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:25:59 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] 404 Not Found (0.013483s, 74.167/s).
+[Wed Apr  3 11:26:00 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] 404 Not Found (0.014343s, 69.720/s).
+[Wed Apr  3 11:26:00 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] 404 Not Found (0.013834s, 72.286/s).
+[Wed Apr  3 11:26:00 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] 404 Not Found (0.016920s, 59.102/s).
+[Wed Apr  3 11:26:00 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:00 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached template layouts/bootstrap.html.ep.
+[Wed Apr  3 11:26:00 2013] [debug] 200 OK (0.004959s, 201.654/s).
+[Wed Apr  3 11:26:00 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] 404 Not Found (0.031416s, 31.831/s).
+[Wed Apr  3 11:26:00 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] 404 Not Found (0.016230s, 61.614/s).
+[Wed Apr  3 11:26:00 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] 404 Not Found (0.015126s, 66.111/s).
+[Wed Apr  3 11:26:00 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] 404 Not Found (0.015795s, 63.311/s).
+[Wed Apr  3 11:26:00 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] 404 Not Found (0.014204s, 70.403/s).
+[Wed Apr  3 11:26:00 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] 404 Not Found (0.014030s, 71.276/s).
+[Wed Apr  3 11:26:00 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:00 2013] [debug] 404 Not Found (0.022919s, 43.632/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.066026s, 15.146/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.022445s, 44.553/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.015560s, 64.267/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.015240s, 65.617/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.031226s, 32.025/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.013847s, 72.218/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.014239s, 70.230/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.013880s, 72.046/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.013622s, 73.411/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.015646s, 63.914/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.024731s, 40.435/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.013953s, 71.669/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.013635s, 73.341/s).
+[Wed Apr  3 11:26:01 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 11:26:01 2013] [debug] 404 Not Found (0.013541s, 73.850/s).
+[Wed Apr  3 12:02:58 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:03:27 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:03:27 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 12:03:27 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:27 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Wed Apr  3 12:03:27 2013] [debug] Rendering template "example/welcome.html.ep".
+[Wed Apr  3 12:03:27 2013] [debug] Rendering template "layouts/bootstrap.html.ep".
+[Wed Apr  3 12:03:27 2013] [debug] 200 OK (0.068194s, 14.664/s).
+[Wed Apr  3 12:03:27 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering inline template.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering inline template.
+[Wed Apr  3 12:03:27 2013] [debug] 404 Not Found (0.045971s, 21.753/s).
+[Wed Apr  3 12:03:27 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] 404 Not Found (0.095179s, 10.507/s).
+[Wed Apr  3 12:03:27 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] 404 Not Found (0.016767s, 59.641/s).
+[Wed Apr  3 12:03:27 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] 404 Not Found (0.016670s, 59.988/s).
+[Wed Apr  3 12:03:27 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] 404 Not Found (0.028280s, 35.361/s).
+[Wed Apr  3 12:03:27 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] 404 Not Found (0.015436s, 64.784/s).
+[Wed Apr  3 12:03:27 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] 404 Not Found (0.016920s, 59.102/s).
+[Wed Apr  3 12:03:27 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:27 2013] [debug] 404 Not Found (0.105172s, 9.508/s).
+[Wed Apr  3 12:03:27 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.033210s, 30.111/s).
+[Wed Apr  3 12:03:28 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.017044s, 58.672/s).
+[Wed Apr  3 12:03:28 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.016838s, 59.389/s).
+[Wed Apr  3 12:03:28 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.017411s, 57.435/s).
+[Wed Apr  3 12:03:28 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.038126s, 26.229/s).
+[Wed Apr  3 12:03:28 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.020929s, 47.781/s).
+[Wed Apr  3 12:03:28 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.021679s, 46.128/s).
+[Wed Apr  3 12:03:28 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.016883s, 59.231/s).
+[Wed Apr  3 12:03:28 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.017002s, 58.817/s).
+[Wed Apr  3 12:03:28 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.019724s, 50.700/s).
+[Wed Apr  3 12:03:28 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.020152s, 49.623/s).
+[Wed Apr  3 12:03:28 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.017522s, 57.071/s).
+[Wed Apr  3 12:03:28 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.017695s, 56.513/s).
+[Wed Apr  3 12:03:28 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:03:28 2013] [debug] 404 Not Found (0.020733s, 48.232/s).
+[Wed Apr  3 12:04:10 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:04:14 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:04:14 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 12:04:14 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:14 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Wed Apr  3 12:04:14 2013] [debug] Rendering template "example/welcome.html.ep".
+[Wed Apr  3 12:04:15 2013] [debug] Rendering template "layouts/bootstrap.html.ep".
+[Wed Apr  3 12:04:15 2013] [debug] 200 OK (0.061984s, 16.133/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.034510s, 28.977/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.015987s, 62.551/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.015767s, 63.424/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.015682s, 63.767/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.017119s, 58.415/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.015766s, 63.428/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.018862s, 53.017/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.015019s, 66.582/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.017388s, 57.511/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.039165s, 25.533/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.022739s, 43.977/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.019980s, 50.050/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.014104s, 70.902/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.013385s, 74.710/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.013412s, 74.560/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.013313s, 75.115/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.014145s, 70.696/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.013245s, 75.500/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] 404 Not Found (0.013562s, 73.735/s).
+[Wed Apr  3 12:04:15 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:15 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:16 2013] [debug] 404 Not Found (0.013337s, 74.979/s).
+[Wed Apr  3 12:04:16 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:16 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:16 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:16 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:16 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:16 2013] [debug] 404 Not Found (0.016307s, 61.323/s).
+[Wed Apr  3 12:04:16 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:16 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:16 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:16 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:16 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:16 2013] [debug] 404 Not Found (0.014151s, 70.666/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Routing to controller "MojoAssets::Example" and action "welcome".
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached template example/welcome.html.ep.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached template layouts/bootstrap.html.ep.
+[Wed Apr  3 12:04:43 2013] [debug] 200 OK (0.004971s, 201.167/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] 404 Not Found (0.016511s, 60.566/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] 404 Not Found (0.016575s, 60.332/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] 404 Not Found (0.015045s, 66.467/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] 404 Not Found (0.015296s, 65.377/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] 404 Not Found (0.023112s, 43.268/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] 404 Not Found (0.024253s, 41.232/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] 404 Not Found (0.043450s, 23.015/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] 404 Not Found (0.013675s, 73.126/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] 404 Not Found (0.013870s, 72.098/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] 404 Not Found (0.013666s, 73.174/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] 404 Not Found (0.015774s, 63.395/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] 404 Not Found (0.015701s, 63.690/s).
+[Wed Apr  3 12:04:43 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:43 2013] [debug] 404 Not Found (0.013659s, 73.212/s).
+[Wed Apr  3 12:04:44 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] 404 Not Found (0.014244s, 70.205/s).
+[Wed Apr  3 12:04:44 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] 404 Not Found (0.014131s, 70.766/s).
+[Wed Apr  3 12:04:44 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] 404 Not Found (0.013812s, 72.401/s).
+[Wed Apr  3 12:04:44 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] 404 Not Found (0.013974s, 71.561/s).
+[Wed Apr  3 12:04:44 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] 404 Not Found (0.014205s, 70.398/s).
+[Wed Apr  3 12:04:44 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] 404 Not Found (0.014687s, 68.087/s).
+[Wed Apr  3 12:04:44 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:04:44 2013] [debug] 404 Not Found (0.013976s, 71.551/s).
+[Wed Apr  3 12:22:42 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:23:00 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:24:12 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:24:47 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:24:59 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:25:05 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:26:35 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:26:39 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:26:43 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:26:52 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:26:53 2013] [info] Listening at "http://*:9090".
+[Wed Apr  3 12:29:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 12:29:31 2013] [error] Event "read" failed: Can't locate object method "new" via package "MojoAssets::Controller" (perhaps you forgot to load "MojoAssets::Controller"?) at /usr/lib/perl5/site_perl/5.14/Mojolicious.pm line 147.
+
+[Wed Apr  3 12:29:46 2013] [debug] Inactivity timeout.
+[Wed Apr  3 12:29:46 2013] [error] Event "read" failed: Can't locate object method "new" via package "MojoAssets::Controller" (perhaps you forgot to load "MojoAssets::Controller"?) at /usr/lib/perl5/site_perl/5.14/Mojolicious.pm line 147.
+
+[Wed Apr  3 12:30:01 2013] [debug] Inactivity timeout.
+[Wed Apr  3 12:30:09 2013] [error] Event "read" failed: Can't locate object method "new" via package "MojoAssets::Controller" (perhaps you forgot to load "MojoAssets::Controller"?) at /usr/lib/perl5/site_perl/5.14/Mojolicious.pm line 147.
+
+[Wed Apr  3 12:30:24 2013] [debug] Inactivity timeout.
+[Wed Apr  3 12:30:24 2013] [error] Event "read" failed: Can't locate object method "new" via package "MojoAssets::Controller" (perhaps you forgot to load "MojoAssets::Controller"?) at /usr/lib/perl5/site_perl/5.14/Mojolicious.pm line 147.
+
+[Wed Apr  3 12:30:39 2013] [debug] Inactivity timeout.
+[Wed Apr  3 12:30:45 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:31:11 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:31:29 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:31:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 12:31:50 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:31:50 2013] [debug] Routing to controller "MojoAssets::Controller" and action "welcome".
+[Wed Apr  3 12:31:50 2013] [debug] Template "controller/welcome.html.ep" not found.
+[Wed Apr  3 12:31:50 2013] [debug] Template "controller/welcome.html.ep" not found.
+[Wed Apr  3 12:31:50 2013] [debug] Nothing has been rendered, expecting delayed response.
+[Wed Apr  3 12:33:31 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:33:49 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:34:00 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:34:19 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:37:48 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:37:54 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:37:59 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:55:41 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:55:57 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:56:01 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:56:06 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:56:56 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 12:56:56 2013] [info] Listening at "http://*:9090".
+[Wed Apr  3 12:57:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 12:57:04 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:57:04 2013] [debug] Controller "MojoAssets::Controller::Main" does not exist.
+[Wed Apr  3 12:57:04 2013] [debug] Template "main/welcome.html.ep" not found.
+[Wed Apr  3 12:57:04 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:57:04 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:57:04 2013] [debug] Rendering inline template.
+[Wed Apr  3 12:57:04 2013] [debug] Rendering inline template.
+[Wed Apr  3 12:57:04 2013] [debug] 404 Not Found (0.054548s, 18.332/s).
+[Wed Apr  3 12:57:09 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:57:09 2013] [debug] Controller "MojoAssets::Controller::Main" does not exist.
+[Wed Apr  3 12:57:09 2013] [debug] Template "main/welcome.html.ep" not found.
+[Wed Apr  3 12:57:09 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:57:09 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:57:09 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:57:09 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:57:09 2013] [debug] 404 Not Found (0.022708s, 44.037/s).
+[Wed Apr  3 12:58:57 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 12:58:57 2013] [debug] Controller "MojoAssets::Controller::Main" does not exist.
+[Wed Apr  3 12:58:57 2013] [debug] Template "main/welcome.html.ep" not found.
+[Wed Apr  3 12:58:57 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 12:58:57 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 12:58:57 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:58:57 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 12:58:57 2013] [debug] 404 Not Found (0.027909s, 35.831/s).
+[Wed Apr  3 13:01:21 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:02:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 13:02:04 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:02:04 2013] [debug] Controller "MojoAssets::Controller::Main" does not exist.
+[Wed Apr  3 13:02:04 2013] [debug] Template "main/welcome.html.ep" not found.
+[Wed Apr  3 13:02:04 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:02:04 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:02:04 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:02:04 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:02:04 2013] [debug] 404 Not Found (0.049818s, 20.073/s).
+[Wed Apr  3 13:02:18 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:02:19 2013] [info] Listening at "http://*:9090".
+[Wed Apr  3 13:03:25 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 13:03:25 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:03:25 2013] [debug] Controller "MojoAssets::Controller::Main" does not exist.
+[Wed Apr  3 13:03:25 2013] [debug] Template "main/welcome.html.ep" not found.
+[Wed Apr  3 13:03:25 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:03:25 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:03:25 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:03:25 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:03:25 2013] [debug] 404 Not Found (0.048981s, 20.416/s).
+[Wed Apr  3 13:03:32 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:03:32 2013] [debug] Controller "MojoAssets::Controller::Main" does not exist.
+[Wed Apr  3 13:03:32 2013] [debug] Template "main/welcome.html.ep" not found.
+[Wed Apr  3 13:03:32 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:03:32 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:03:32 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:03:32 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:03:32 2013] [debug] 404 Not Found (0.044661s, 22.391/s).
+[Wed Apr  3 13:10:10 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:10:10 2013] [info] Listening at "http://*:9090".
+[Wed Apr  3 13:11:11 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:11:19 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:11:19 2013] [info] Listening at "http://*:9090".
+[Wed Apr  3 13:11:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 13:11:26 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:11:26 2013] [error] Can't use string ("MojoAssets::Controller") as an ARRAY ref while "strict refs" in use at /usr/lib/perl5/site_perl/5.14/Mojolicious/Routes.pm line 128.
+
+[Wed Apr  3 13:11:26 2013] [debug] Template "exception.development.html.ep" not found.
+[Wed Apr  3 13:11:26 2013] [debug] Template "exception.html.ep" not found.
+[Wed Apr  3 13:11:26 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:11:26 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:11:26 2013] [debug] 500 Internal Server Error (0.056518s, 17.693/s).
+[Wed Apr  3 13:12:09 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:14:42 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:14:42 2013] [info] Listening at "http://*:9090".
+[Wed Apr  3 13:14:46 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 13:14:46 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:14:46 2013] [debug] Controller "MojoAssets::Controller::Main" does not exist.
+[Wed Apr  3 13:14:46 2013] [debug] Template "main/welcome.html.ep" not found.
+[Wed Apr  3 13:14:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:14:46 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:14:46 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:14:46 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:14:46 2013] [debug] 404 Not Found (0.052494s, 19.050/s).
+[Wed Apr  3 13:14:50 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:14:50 2013] [debug] Controller "MojoAssets::Controller::Main" does not exist.
+[Wed Apr  3 13:14:50 2013] [debug] Template "main/welcome.html.ep" not found.
+[Wed Apr  3 13:14:50 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:14:50 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:14:50 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:14:50 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:14:50 2013] [debug] 404 Not Found (0.026303s, 38.018/s).
+[Wed Apr  3 13:15:27 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:15:45 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:15:45 2013] [info] Listening at "http://*:9090".
+[Wed Apr  3 13:15:50 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 13:15:50 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:15:50 2013] [error] MojoAssets/Main.pm did not return a true value at (eval 299) line 1.
+
+[Wed Apr  3 13:15:50 2013] [debug] Template "exception.development.html.ep" not found.
+[Wed Apr  3 13:15:50 2013] [debug] Template "exception.html.ep" not found.
+[Wed Apr  3 13:15:50 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:15:50 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:15:50 2013] [debug] 500 Internal Server Error (0.060192s, 16.614/s).
+[Wed Apr  3 13:16:12 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:16:13 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 13:16:13 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:16:13 2013] [debug] Class "MojoAssets::Main" is not a controller.
+[Wed Apr  3 13:16:13 2013] [debug] Template "main/welcome.html.ep" not found.
+[Wed Apr  3 13:16:13 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:16:13 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:16:13 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:16:13 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:16:13 2013] [debug] 404 Not Found (0.043307s, 23.091/s).
+[Wed Apr  3 13:17:09 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:17:37 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:17:37 2013] [info] Listening at "http://*:9090".
+[Wed Apr  3 13:17:41 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 13:17:41 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:17:41 2013] [debug] Class "MojoAssets::Main" is not a controller.
+[Wed Apr  3 13:17:41 2013] [debug] Template "main/welcome.html.ep" not found.
+[Wed Apr  3 13:17:41 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:17:41 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:17:41 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:17:41 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:17:41 2013] [debug] 404 Not Found (0.045853s, 21.809/s).
+[Wed Apr  3 13:17:44 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:17:44 2013] [debug] Class "MojoAssets::Main" is not a controller.
+[Wed Apr  3 13:17:44 2013] [debug] Template "main/welcome.html.ep" not found.
+[Wed Apr  3 13:17:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:17:44 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:17:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:17:44 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:17:44 2013] [debug] 404 Not Found (0.016278s, 61.433/s).
+[Wed Apr  3 13:23:37 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:23:50 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:24:49 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:25:34 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:25:54 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:28:03 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:28:03 2013] [info] Listening at "http://*:9090".
+[Wed Apr  3 13:28:07 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 13:28:07 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:07 2013] [debug] Routing to controller "MojoAssets::Controller::Main" and action "welcome".
+[Wed Apr  3 13:28:07 2013] [debug] Rendering template "example/welcome.html.ep".
+[Wed Apr  3 13:28:07 2013] [error] Global symbol "$message" requires explicit package name at template example/welcome.html.ep line 3.
+1: % layout 'bootstrap';
+2: % title 'Welcome';
+3: <h2><%= $message %></h2>
+4: This page was generated from the template "templates/example/welcome.html.ep"
+5: and the layout "templates/layouts/default.html.ep",
+6: <a href="<%== url_for %>">click here</a> to reload the page or
+7: <a href="/index.html">here</a> to move forward to a static page.
+
+[Wed Apr  3 13:28:07 2013] [debug] Template "exception.development.html.ep" not found.
+[Wed Apr  3 13:28:07 2013] [debug] Template "exception.html.ep" not found.
+[Wed Apr  3 13:28:07 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:28:07 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:28:07 2013] [debug] 500 Internal Server Error (0.100016s, 9.998/s).
+[Wed Apr  3 13:28:40 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:28:45 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:28:49 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 13:28:51 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 13:28:51 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:51 2013] [debug] Routing to controller "MojoAssets::Controller::Main" and action "welcome".
+[Wed Apr  3 13:28:51 2013] [debug] Rendering template "example/welcome.html.ep".
+[Wed Apr  3 13:28:51 2013] [debug] Rendering template "layouts/bootstrap.html.ep".
+[Wed Apr  3 13:28:51 2013] [debug] 200 OK (0.071656s, 13.956/s).
+[Wed Apr  3 13:28:51 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering inline template.
+[Wed Apr  3 13:28:51 2013] [debug] 404 Not Found (0.074597s, 13.405/s).
+[Wed Apr  3 13:28:51 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] 404 Not Found (0.106298s, 9.408/s).
+[Wed Apr  3 13:28:51 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] 404 Not Found (0.016878s, 59.249/s).
+[Wed Apr  3 13:28:51 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] 404 Not Found (0.018654s, 53.608/s).
+[Wed Apr  3 13:28:51 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] 404 Not Found (0.017220s, 58.072/s).
+[Wed Apr  3 13:28:51 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] 404 Not Found (0.017369s, 57.574/s).
+[Wed Apr  3 13:28:51 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] 404 Not Found (0.072479s, 13.797/s).
+[Wed Apr  3 13:28:51 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:51 2013] [debug] 404 Not Found (0.016885s, 59.224/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.019459s, 51.390/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.017110s, 58.445/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.017138s, 58.350/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.018314s, 54.603/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.032655s, 30.623/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.017779s, 56.246/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.017189s, 58.177/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.017194s, 58.160/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.017090s, 58.514/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.016849s, 59.351/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.017221s, 58.069/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.019586s, 51.057/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.028982s, 34.504/s).
+[Wed Apr  3 13:28:52 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 13:28:52 2013] [debug] 404 Not Found (0.016981s, 58.889/s).
+[Wed Apr  3 14:27:30 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 15:02:09 2013] [debug] Your secret passphrase needs to be changed!!!
+[Wed Apr  3 15:02:09 2013] [debug] GET / (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:09 2013] [debug] Routing to controller "MojoAssets::Controller::Main" and action "welcome".
+[Wed Apr  3 15:02:09 2013] [debug] Rendering template "example/welcome.html.ep".
+[Wed Apr  3 15:02:10 2013] [debug] Rendering template "layouts/bootstrap.html.ep".
+[Wed Apr  3 15:02:10 2013] [debug] 200 OK (0.066894s, 14.949/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.036676s, 27.266/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.024126s, 41.449/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.016030s, 62.383/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.017901s, 55.863/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.017331s, 57.700/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.018253s, 54.786/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.018487s, 54.092/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.019418s, 51.499/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-transition.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.026193s, 38.178/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.064399s, 15.528/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.014108s, 70.882/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.013690s, 73.046/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-alert.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.013566s, 73.714/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-modal.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.016823s, 59.442/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-scrollspy.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.013940s, 71.736/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-tab.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.014293s, 69.964/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-tooltip.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.013717s, 72.902/s).
+[Wed Apr  3 15:02:10 2013] [debug] GET /assets/js/bootstrap-popover.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:10 2013] [debug] 404 Not Found (0.017775s, 56.259/s).
+[Wed Apr  3 15:02:11 2013] [debug] GET /assets/js/bootstrap-button.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:11 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:11 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:11 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:11 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:11 2013] [debug] 404 Not Found (0.014058s, 71.134/s).
+[Wed Apr  3 15:02:11 2013] [debug] GET /assets/js/bootstrap-collapse.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:11 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:11 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:11 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:11 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:11 2013] [debug] 404 Not Found (0.013378s, 74.750/s).
+[Wed Apr  3 15:02:11 2013] [debug] GET /assets/js/bootstrap-carousel.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:11 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:11 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:11 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:11 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:11 2013] [debug] 404 Not Found (0.013699s, 72.998/s).
+[Wed Apr  3 15:02:11 2013] [debug] GET /assets/js/bootstrap-typeahead.js (Mozilla/5.0 (Windows NT 5.1; rv:19.0) Gecko/20100101 Firefox/19.0).
+[Wed Apr  3 15:02:11 2013] [debug] Template "not_found.development.html.ep" not found.
+[Wed Apr  3 15:02:11 2013] [debug] Template "not_found.html.ep" not found.
+[Wed Apr  3 15:02:11 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:11 2013] [debug] Rendering cached inline template.
+[Wed Apr  3 15:02:11 2013] [debug] 404 Not Found (0.013511s, 74.014/s).
+[Wed Apr  3 15:57:51 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 15:57:57 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 15:58:30 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
+[Wed Apr  3 15:58:36 2013] [debug] Reading config file "/home/rjblack/projects/mojo_assets/mojoassets.conf".
