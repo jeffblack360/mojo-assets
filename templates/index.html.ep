@@ -1,0 +1,7 @@
+% layout 'bootstrap';
+% title 'Index';
+<h2><%= $message %></h2>
+This page is the index page.  Be kind to it.  It was generated from the template "templates/index.html.ep"
+and the layout "templates/layouts/bootstrap.html.ep",
+<a href="<%== url_for %>">click here</a> to reload the page or
+<a href="/index.html">here</a> to move forward to a static page.

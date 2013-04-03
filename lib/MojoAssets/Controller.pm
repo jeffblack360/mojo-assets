@@ -37,4 +37,18 @@ sub auth_require_login {
     return;
 }
 
+# Takes a user name and a password and returns a user object
+# or undef on verification failure
+sub verify_account {
+    my ($self, $user, $pass) = @_;
+    my $u;
+    return unless defined $user and defined $pass;
+
+    $u = { username => $user, password => $pass };
+    # $u = $self->model('admin')->load($user)
+        # and $self->_compare_passwords($pass, $u->password) and return $u;
+    # $u = $self->model('mailbox')->load($user)
+        # and $self->_compare_passwords($pass, $u->password) and return $u;
+    return $u;
+}
 1;
