@@ -55,14 +55,14 @@ sub setup_routing {
     $r->namespaces(['MojoAssets::Controller']);
 
     # Authentication conditions
-    $r->add_condition(login => sub { $_[1]->auth_require_login });
-    $r->add_condition(role => sub { $_[1]->auth_require_role($_[3]) });
+    #$r->add_condition(login => sub { $_[1]->auth_require_login });
+    #$r->add_condition(role => sub { $_[1]->auth_require_role($_[3]) });
     
     # Normal route to controller
-    #$r->route('/')->to('main#welcome');
-    $r->route('/') ->to('main#login') ->name('login');
+    #$r->route('/')      ->to('main#welcome');
+    $r->route('/')       ->to('main#login')  ->name('login');
     $r->route('/logout') ->to('main#logout') ->name('logout');
-    $r->route('/main') ->over('login') ->to('main#index') ->name('index');    
+    $r->route('/main')   ->to('main#index')  ->name('index');    
     
 };
 

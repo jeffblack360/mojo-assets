@@ -32,7 +32,9 @@ sub auth_require_role {
 sub auth_require_login {
     my $self = shift;
     my $user = $self->session('user');
-    return 1 if defined($user) && defined($user->name);
+    print STDERR "$user->{username}\n";
+    print STDERR "$self->url_with\n";
+    return 1 if defined($user); # && defined($user->{username});
     $self->redirect_to(named => 'login', redirect => $self->url_with);
     return;
 }
@@ -43,8 +45,13 @@ sub verify_account {
     my ($self, $user, $pass) = @_;
     my $u;
     return unless defined $user and defined $pass;
-
+    
+    return undef unless $user eq $pass;
+    
     $u = { username => $user, password => $pass };
+    
+    print STDERR "verify_account: $u->{username}\n";
+    
     # $u = $self->model('admin')->load($user)
         # and $self->_compare_passwords($pass, $u->password) and return $u;
     # $u = $self->model('mailbox')->load($user)
