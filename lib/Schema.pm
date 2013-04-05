@@ -16,5 +16,6 @@ __PACKAGE__->load_namespaces;
 # DO NOT MODIFY THIS OR ANYTHING ABOVE! md5sum:bR/pni/Hw4oTH8M0ebMgSg
 
 
-# You can replace this text with custom code or comments, and it will be preserved on regeneration
+# You can replace this text with custom code or comments, and it will be 
+# preserved on regeneration
 1;

@@ -3,7 +3,13 @@ use Mojo::Base 'MojoAssets::Controller';
 use Data::Dumper;
 
 sub index {
+    my $self = shift;
+    print STDERR "Welcome to index\n";
+    print STDERR "$self\n";    
     # just render
+    #$self->render;
+    $self->render(template => 'example/welcome',
+                  message => 'Hello from the index method!');
 }
 
 # This action will render a template
@@ -29,8 +35,10 @@ sub login {
 
     if($user) {
         # Login successful
-        $self->session('user', $user);        
-        #$self->redirect_to($redir || 'index');
+        $self->session('user', $user);
+        print STDERR "stuff $user->{username}\n";
+        print STDERR "stuff $redir\n";
+        $self->redirect_to($redir || 'index');
     } else {
         # Login failed
         #$self->show_error_l('pLogin_failed');
@@ -39,24 +47,13 @@ sub login {
     }
 
     # Render template "example/welcome.html.ep" with message
-    $self->render(template => 'example/welcome',
-                  message  => $message );
- 
-
-#    return $self->render(template => 'example/login') 
-#        unless defined $name and defined $pass;
-#    my $user = $self->verify_account($name, $pass);
-
+    $self->render(template => 'example/welcome', message => $message);
 }
 
 sub logout {
     my $self = shift;
     $self->session(expires => 1); # invalidate
-    $self->redirect_to('index');
+    $self->redirect_to('welcome');
 }
 
 1;
-
-__DATA__
-@@ login.html.ep
-This is my login page.

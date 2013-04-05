@@ -30,11 +30,9 @@ sub auth_require_role {
 
 # Require that user be logged in. Redirect to login if not.
 sub auth_require_login {
-    my $self = shift;
-    my $user = $self->session('user');
-    print STDERR "$user->{username}\n";
-    print STDERR "$self->url_with\n";
-    return 1 if defined($user); # && defined($user->{username});
+    my $self = shift;	
+    my $user = $self->session('user');        
+    return 1 if defined($user) && defined($user->{username});
     $self->redirect_to(named => 'login', redirect => $self->url_with);
     return;
 }
@@ -49,13 +47,12 @@ sub verify_account {
     return undef unless $user eq $pass;
     
     $u = { username => $user, password => $pass };
-    
-    print STDERR "verify_account: $u->{username}\n";
-    
+
     # $u = $self->model('admin')->load($user)
         # and $self->_compare_passwords($pass, $u->password) and return $u;
     # $u = $self->model('mailbox')->load($user)
         # and $self->_compare_passwords($pass, $u->password) and return $u;
+
     return $u;
 }
 1;

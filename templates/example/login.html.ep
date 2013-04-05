@@ -1,0 +1,10 @@
+% layout 'bootstrap';
+% title 'login';
+
+<form method="post" action="/" name="aform" target="_top">
+<input type="hidden" id="redirect" name="redirect" value="welcome"><br>
+Login:<input type="text" name="username"><br>
+Password:<input type="password" name="password"><br>
+<input type="submit" value="Enter">
+</form>
+

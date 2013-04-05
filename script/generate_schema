@@ -10,6 +10,7 @@ my @dsn = 'dbi:SQLite:dbname=db/assets.db';
 
 my $options = {
   debug          => $DEBUG,
+  use_namespaces => 1,
   dump_directory => 'lib',
   components     => [qw/ InflateColumn::DateTime /],
   generate_pod   => 0,
