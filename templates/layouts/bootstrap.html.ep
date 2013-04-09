@@ -3,8 +3,8 @@
 <head>
 <title><%= title %></title>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="MCPS">
-<meta name="author" content="jeffblack360">
+<meta name="description" content="MojoAssets">
+<meta name="author" content="@jeffblack360">
 
 <!-- Le styles -->
 <link href="assets/css/bootstrap.css" rel="stylesheet">
@@ -55,76 +55,40 @@
 <li class="active"><a href="/"><i class="icon-home icon-white"></i> Home</a></li>
 
 <li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown">FAMA<b class="caret"></b></a>
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Component Management<b class="caret"></b></a>
 <ul class="dropdown-menu">
-<li><a href="/fama_project_list">Projects List</a></li>
+<li><a href="main/company-list">Company List</a></li>
+<li><a href="main/user-list">User List</a></li>
+<li><a href="main/asset-list">Asset List</a></li>
 </ul>
 </li>   
 
 <li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown">Configuration<b class="caret"></b></a>
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Reports<b class="caret"></b></a>
 <ul class="dropdown-menu">
-<li><a href="action-tag.html">Action Chaining</a></li>
-<li><a href="action-tag.html">Config Browser</a></li>
-<li><a href="action-tag.html">Conversion</a></li>
+<li><a href="#">Report ABC</a></li>
+<li><a href="#">Report XYZ</a></li>
 </ul>
 </li>   
 
-<li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown">File<b class="caret"></b></a>
-<ul class="dropdown-menu">
-<li><a href="action-tag.html">File Download</a></li>
-<li><a href="action-tag.html">File Upload</a></li>
-</ul>
-</li>   
-
-<li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown">Integration<b class="caret"></b></a>
-<ul class="dropdown-menu">
-<li><a href="action-tag.html">Freemarker</a></li>
-<li><a href="action-tag.html">JavaServer Faces</a></li>
-<li><a href="action-tag.html">Tiles</a></li>
-</ul>
-</li>   
-
-<li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown">Examples<b class="caret"></b></a>
-<ul class="dropdown-menu">
-<li><a href="action-tag.html">Hangman</a></li>
-<li><a href="action-tag.html">Person Manager</a></li>
-<li><a href="action-tag.html">CRUD</a></li>
-<li><a href="action-tag.html">Execute &amp; Wait</a></li>
-<li><a href="action-tag.html">Token</a></li>
-<li class="last"><a href="action-tag.html">Validation</a></li>
-</ul>
-</li>   
-
-<li class="dropdown last">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown">Tags<b class="caret"></b></a>
-<ul class="dropdown-menu">
-<li><a href="action-tag.html">Non UI Tags</a></li>
-<li><a href="action-tag.html">UI Tags</a></li>
-</ul>
-</li>   
-
-<li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown">Documentation<b class="caret"></b></a>
-<ul class="dropdown-menu">
-<li><a href="mcps/index.html">MCPS Development Process</a></li>
-<li><a href="cbs/index.html">Coventry Build System</a></li>
-</ul>
-</li>   
 
 </ul>
+
+<!-- END Left-aligned Nav Bar Items -->
+
+<!-- BEGIN Right-aligned Nav Bar Items -->
 
 <ul class="nav pull-right">
+
+<li class="active">
+<a href="/logout">Logout</a>
+</li>   
+
 <li class="dropdown last">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="icon-flag icon-white"></i> Help<b class="caret"></b></a>
 <ul class="dropdown-menu">
-<li><a href="http://teams.cvty.com/ops/ProviderPS/Pricing/default.aspx">MCPS Pricing Home</a></li>
-<li><a href="http://teams.cvty.com/ops/ProviderPS/Pricing/MCPSProdSup/default.aspx">MCPS Production Support</a></li>
-<li><a href="http://remedyweb:8080/arsys/shared/login.jsp?/arsys/">Remedy</a></li>
-<li><a href="http://mcpscvs/bugzilla/">Bugzilla</a></li>
+<li><a href="help/about">About MojoAssets</a></li>
+<li><a href="help/documentation">Documentation</a></li>
 </ul>
 </li>   
 </ul>
