@@ -23,7 +23,7 @@ sub auth_require_role {
     my ($self, $role) = @_;
     return unless $self->auth_require_login;
     return 1 if $self->auth_has_role($role);
-    # TODO flash() "Insufficient privileges" or something?
+    # TODO flash() "Insufficient privileges" or something?	
     $self->redirect_to(named => 'login', redirect => $self->url_with);
     return;
 }
@@ -33,6 +33,8 @@ sub auth_require_login {
     my $self = shift;	
     my $user = $self->session('user');        
     return 1 if defined($user) && defined($user->{username});
+	# TODO flash() "Insufficient privileges" or something?	
+	#$self->flash(message => 'Please login' );
     $self->redirect_to(named => 'login', redirect => $self->url_with);
     return;
 }

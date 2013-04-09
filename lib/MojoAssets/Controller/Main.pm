@@ -53,7 +53,8 @@ sub login {
 sub logout {
     my $self = shift;
     $self->session(expires => 1); # invalidate
-    $self->redirect_to('welcome');
+	my $message = "You have successfully logged out.";
+    $self->redirect_to('welcome', message => $message );
 }
 
 1;

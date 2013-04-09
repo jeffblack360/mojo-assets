@@ -1,10 +1,28 @@
 % layout 'bootstrap';
 % title 'login';
-
-<form method="post" action="/" name="aform" target="_top">
-<input type="hidden" id="redirect" name="redirect" value="welcome"><br>
-Login:<input type="text" name="username"><br>
-Password:<input type="password" name="password"><br>
-<input type="submit" value="Enter">
+% if (my $message = flash 'message') {
+	<h2><%= $message %></h2>
+% }
+<form class="form-horizontal" method="post" action="/">
+<div class="control-group">
+<label class="control-label" for="username">Login</label>
+<div class="controls">
+<input type="text" id="username" name="username" placeholder="username">
+</div>
+</div>
+<div class="control-group">
+<label class="control-label" for="password">Password</label>
+<div class="controls">
+<input type="password" id="password" name="password" placeholder="password">
+</div>
+</div>
+<div class="control-group">
+<div class="controls">
+<label class="checkbox">
+<input type="checkbox"> Remember me
+</label>
+<button type="submit" class="btn">Sign in</button>
+</div>
+</div>
+<input type="hidden" id="redirect" name="redirect" value="welcome">
 </form>
-

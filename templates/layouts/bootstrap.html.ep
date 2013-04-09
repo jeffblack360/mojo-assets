@@ -52,10 +52,10 @@
 
 <ul class="nav">
 
-<li class="active"><a href="/"><i class="icon-home icon-white"></i> Home</a></li>
+<li class="active"><a href="/welcome"><i class="icon-home icon-white"></i> Home</a></li>
 
 <li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown">Component Management<b class="caret"></b></a>
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Management<b class="caret"></b></a>
 <ul class="dropdown-menu">
 <li><a href="main/company-list">Company List</a></li>
 <li><a href="main/user-list">User List</a></li>
@@ -64,7 +64,7 @@
 </li>   
 
 <li class="dropdown">
-<a href="#" class="dropdown-toggle" data-toggle="dropdown">Reports<b class="caret"></b></a>
+<a href="#" class="dropdown-toggle" data-toggle="dropdown">Reporting<b class="caret"></b></a>
 <ul class="dropdown-menu">
 <li><a href="#">Report ABC</a></li>
 <li><a href="#">Report XYZ</a></li>
@@ -110,7 +110,7 @@
 <hr>
 
 <div id="footer">
-<p>&copy; RJB Technology Advisors 2010-2014</p>
+<p>&copy; RJB Technology Advisors 2012-2013</p>
 </div>
 
 </div> <!-- /container -->
